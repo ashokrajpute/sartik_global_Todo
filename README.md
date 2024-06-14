@@ -1,4 +1,4 @@
-### Explanation:
+### Explanation of how to run the application locally :
 
 - **Clone the repository**: Use `git clone` to make a local copy of your project from GitHub.
   
@@ -9,5 +9,6 @@
 - **Start the development server**: Run `npm start` to launch the development server.
 
 - **View the application**: Open [http://localhost:3000](http://localhost:3000) in your web browser to see the running application.
+ 
+- **My deployment Link**:  [https://sartik-global-todo-1.onrender.com](CLICKHERE) .
 
-This README provides concise instructions for users to set up and run your React Todo app locally on their machines. Adjust paths and URLs as necessary to match your specific project structure and configuration.
