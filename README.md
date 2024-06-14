@@ -10,5 +10,5 @@
 
 - **View the application**: Open [http://localhost:3000](http://localhost:3000) in your web browser to see the running application.
  
-- **My deployment Link**:  [https://sartik-global-todo-1.onrender.com](CLICKHERE) .
+- **My deployment Link**:  [ClickHere](https://sartik-global-todo-1.onrender.com) .
 
