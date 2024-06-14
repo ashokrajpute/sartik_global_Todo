@@ -13,7 +13,11 @@ function AddTodo() {
 
     const addTodoHandler = (e) => {
         e.preventDefault()
-        
+        if(header.length<1||input.length<1){
+          window.alert('enter both header and task');
+          return 
+          
+        }
         dispatch(addTodo({header,input}));
      
 
